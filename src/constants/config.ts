@@ -1,6 +1,6 @@
 export const CONFIG = {
   tries: 5, // This changes how many tries you get to finish the game
-  language: 'Deutsch', // This changes the display name for your language
+  language: 'Deutsch', // This chsanges the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Stefan ZGraggen', // Put your name here so people know who made this game!
   authorWebsite: 'none', // Put a link to your website or social media here
