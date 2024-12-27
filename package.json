@@ -1,6 +1,6 @@
 {
     "name": "any-language-word-guessing-game",
-    "version": "0.1.1",
+    "version": "0.1.0",
     "homepage": "https://stzgr.github.io/AnyLanguage-Word-Guessing-Game",
     "private": true,
     "dependencies": {
